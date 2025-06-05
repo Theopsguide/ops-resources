@@ -1,5 +1,6 @@
 # ops-resources
 A collection of core tools and resources for effectively running an organization's operations.
+The same list is also available in a machine-readable format at [resources.csv](resources.csv) so you can easily filter or script against it.
 
 # Business Operators Resource Repository – Official Websites
 Below is a comprehensive list of tools, resources, and communities mentioned in the Business Operators Resource Repository, organized by section. Each entry includes the name and a direct link to its official website for easy reference.
