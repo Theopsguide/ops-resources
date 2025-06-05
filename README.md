@@ -106,3 +106,5 @@ Below is a comprehensive list of tools, resources, and communities mentioned in 
 - [Product Hunt](https://www.producthunt.com)
 
 For more resources for running your business operations, visit [The Operations Guide](https://theoperationsguide.com).
+
+For sample operational checklists and playbooks, see the [examples](examples/) directory.
