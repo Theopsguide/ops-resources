@@ -1,6 +1,17 @@
 # ops-resources
 A collection of core tools and resources for effectively running an organization's operations.
 
+## Table of Contents
+- [Work Management & Project Management Tools](#work-management--project-management-tools)
+- [Marketing Tools & Resources](#marketing-tools--resources)
+- [Finance & Accounting](#finance--accounting)
+- [Human Resources & Hiring](#human-resources--hiring)
+- [Legal & Compliance](#legal--compliance)
+- [Productivity & Time Management](#productivity--time-management)
+- [Sales & CRM Tools](#sales--crm-tools)
+- [Customer Support & Engagement](#customer-support--engagement)
+- [Business Education & Growth Resources](#business-education--growth-resources)
+
 # Business Operators Resource Repository – Official Websites
 Below is a comprehensive list of tools, resources, and communities mentioned in the Business Operators Resource Repository, organized by section. Each entry includes the name and a direct link to its official website for easy reference.
 
