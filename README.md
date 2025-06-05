@@ -1,5 +1,6 @@
 # ops-resources
 A collection of core tools and resources for effectively running an organization's operations.
+The same list is also available in a machine-readable format at [resources.csv](resources.csv) so you can easily filter or script against it.
 
 ## Table of Contents
 - [Work Management & Project Management Tools](#work-management--project-management-tools)
