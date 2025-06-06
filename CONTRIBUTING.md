@@ -10,6 +10,7 @@ Thank you for considering contributing to this repository! We welcome additions 
 2. **Update `README.md`**
    - Add the new resource under the appropriate section using Markdown bullet points.
    - If you introduce a new category, update the Table of Contents as well.
+   - Run `python scripts/csv_to_markdown.py > README.md` to regenerate the README from `resources.csv`.
 3. **Run checks**
    - Run `python scripts/check_sorting.py` to verify entries are alphabetically sorted.
    - If the check reports issues, run `python scripts/sort_resources.py` to automatically sort the file.
