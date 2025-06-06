@@ -1,6 +1,12 @@
 # ops-resources
 A collection of core tools and resources for effectively running an organization's operations.
+
 The same list is also available in a machine-readable format at [resources.csv](resources.csv) so you can easily filter or script against it.
+
+## Usage
+Run `python scripts/csv_to_markdown.py` to convert `resources.csv` into a Markdown list.
+You can regenerate this README in one step with:
+`python scripts/csv_to_markdown.py > README.md`
 
 ## Table of Contents
 - [Work Management & Project Management Tools](#work-management--project-management-tools)
