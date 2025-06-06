@@ -11,6 +11,8 @@ Thank you for considering contributing to this repository! We welcome additions 
    - Add the new resource under the appropriate section using Markdown bullet points.
    - If you introduce a new category, update the Table of Contents as well.
 3. **Run checks**
-   - Run `python -m py_compile scripts/*.py` to ensure any Python scripts compile successfully.
+   - Run `python scripts/check_sorting.py` to verify entries are alphabetically sorted.
+   - If the check reports issues, run `python scripts/sort_resources.py` to automatically sort the file.
+   - Finally, run `python -m py_compile scripts/*.py` to ensure any Python scripts compile successfully.
 
 Feel free to open an issue or pull request if you have questions.
