@@ -10,6 +10,7 @@ The same list is also available in a machine-readable format at [resources.csv](
 - [Legal & Compliance](#legal--compliance)
 - [Productivity & Time Management](#productivity--time-management)
 - [Sales & CRM Tools](#sales--crm-tools)
+- [Analytics & Business Intelligence Tools](#analytics--business-intelligence-tools)
 - [Customer Support & Engagement](#customer-support--engagement)
 - [Business Education & Growth Resources](#business-education--growth-resources)
 
@@ -93,6 +94,13 @@ Below is a comprehensive list of tools, resources, and communities mentioned in 
 - [Freshsales (Freshworks CRM)](https://www.freshworks.com/freshsales)
 - [Copper](https://copper.com)
 - [Insightly](https://www.insightly.com)
+
+## Analytics & Business Intelligence Tools
+- [Tableau](https://www.tableau.com)
+- [Power BI](https://powerbi.microsoft.com)
+- [Looker](https://looker.com)
+- [Google Data Studio](https://marketingplatform.google.com/about/data-studio)
+- [Metabase](https://www.metabase.com)
 
 ## Customer Support & Engagement
 - [Zendesk](https://www.zendesk.com)
