@@ -20,6 +20,8 @@ You can regenerate this README in one step with:
 - [Analytics & Business Intelligence Tools](#analytics--business-intelligence-tools)
 - [Customer Support & Engagement](#customer-support--engagement)
 - [Business Education & Growth Resources](#business-education--growth-resources)
+- [Contact & Support](#contact--support)
+- [License](#license)
 
 # Business Operators Resource Repository – Official Websites
 Below is a list of tools, resources, and communities in the Business Operators Resource Repository.
@@ -145,3 +147,7 @@ For more resources for running your business operations, visit [The Operations G
 ## Contact & Support
 
 For questions, suggestions, or other feedback, please email [support@theoperationsguide.com](mailto:support@theoperationsguide.com).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
