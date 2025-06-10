@@ -138,3 +138,7 @@ For more resources for running your business operations, visit [The Operations G
 ## Contact & Support
 
 For questions, suggestions, or other feedback, please email [support@theoperationsguide.com](mailto:support@theoperationsguide.com).
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
