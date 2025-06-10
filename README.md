@@ -8,6 +8,9 @@ Run `python scripts/csv_to_markdown.py` to convert `resources.csv` into a Markdo
 You can regenerate this README in one step with:
 `python scripts/csv_to_markdown.py > README.md`
 
+To verify that the links in `resources.csv` are still reachable, run:
+`python scripts/check_links.py`
+
 ## Table of Contents
 - [Work Management & Project Management Tools](#work-management--project-management-tools)
 - [Marketing Tools & Resources](#marketing-tools--resources)
