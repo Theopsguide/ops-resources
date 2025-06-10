@@ -1,5 +1,5 @@
 # ops-resources
-A collection of core tools and resources for effectively running an organization's operations.
+A collection of core tools and resources for effectively running an organization's operations. It now includes links for mastering Scrum and other Agile workflows.
 
 The same list is also available in a machine-readable format at [resources.csv](resources.csv) so you can easily filter or script against it.
 
@@ -10,6 +10,7 @@ You can regenerate this README in one step with:
 
 ## Table of Contents
 - [Work Management & Project Management Tools](#work-management--project-management-tools)
+- [Scrum & Agile Resources](#scrum--agile-resources)
 - [Marketing Tools & Resources](#marketing-tools--resources)
 - [Finance & Accounting](#finance--accounting)
 - [Human Resources & Hiring](#human-resources--hiring)
@@ -36,6 +37,12 @@ Each entry includes the name and a direct link to its official website for easy 
 - [Smartsheet](https://smartsheet.com) – Collaborative spreadsheets for project planning
 - [Wrike](https://wrike.com) – Real-time project monitoring and collaboration
 - [Teamwork](https://teamwork.com) – Client work management and time tracking
+
+## Scrum & Agile Resources
+- [Agile Manifesto](https://agilemanifesto.org) – The guiding principles of agile development
+- [Atlassian Agile Coach](https://www.atlassian.com/agile) – Guides and best practices for agile teams
+- [Scrum Guide](https://scrumguides.org) – Official guide to the Scrum framework
+- [Scrum.org](https://www.scrum.org) – Scrum training and certification
 
 ## Marketing Tools & Resources
 - [Google Analytics](https://marketingplatform.google.com/about/analytics) – Track website traffic and user behavior
