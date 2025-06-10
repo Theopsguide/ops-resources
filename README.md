@@ -8,6 +8,9 @@ Run `python scripts/csv_to_markdown.py` to convert `resources.csv` into a Markdo
 You can regenerate this README in one step with:
 `python scripts/csv_to_markdown.py > README.md`
 
+To print only entries from a single category, run for example:
+`python scripts/filter_resources.py --category "Finance & Accounting"`
+
 ## Table of Contents
 - [Work Management & Project Management Tools](#work-management--project-management-tools)
 - [Marketing Tools & Resources](#marketing-tools--resources)
