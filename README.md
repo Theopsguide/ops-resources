@@ -12,6 +12,7 @@ To print only entries from a single category, run for example:
 `python scripts/filter_resources.py --category "Finance & Accounting"`
 
 ## Table of Contents
+- [AI Prompts for Operations](#ai-prompts-for-operations)
 - [Work Management & Project Management Tools](#work-management--project-management-tools)
 - [Scrum & Agile Resources](#scrum--agile-resources)
 - [Marketing Tools & Resources](#marketing-tools--resources)
@@ -27,6 +28,9 @@ To print only entries from a single category, run for example:
 # Business Operators Resource Repository – Official Websites
 Below is a list of tools, resources, and communities in the Business Operators Resource Repository.
 Each entry includes the name and a direct link to its official website for easy reference.
+
+## AI Prompts for Operations
+- [AI Prompts for Operations Professionals](ai-prompts-for-ops.md) – Curated collection of AI prompts designed to help operations professionals streamline workflows, automate processes, and optimize business operations
 
 ## Work Management & Project Management Tools
 - [Asana](https://asana.com) – Collaborate on tasks and projects
