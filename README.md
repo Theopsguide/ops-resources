@@ -12,7 +12,6 @@ To print only entries from a single category, run for example:
 `python scripts/filter_resources.py --category "Finance & Accounting"`
 
 ## Table of Contents
-- [AI Prompts for Operations](#ai-prompts-for-operations)
 - [Work Management & Project Management Tools](#work-management--project-management-tools)
 - [Scrum & Agile Resources](#scrum--agile-resources)
 - [Marketing Tools & Resources](#marketing-tools--resources)
@@ -28,9 +27,6 @@ To print only entries from a single category, run for example:
 # Business Operators Resource Repository – Official Websites
 Below is a list of tools, resources, and communities in the Business Operators Resource Repository.
 Each entry includes the name and a direct link to its official website for easy reference.
-
-## AI Prompts for Operations
-- [AI Prompts for Operations Professionals](ai-prompts-for-ops.md) – Curated collection of AI prompts designed to help operations professionals streamline workflows, automate processes, and optimize business operations
 
 ## Work Management & Project Management Tools
 - [Asana](https://asana.com) – Collaborate on tasks and projects
@@ -76,14 +72,15 @@ Each entry includes the name and a direct link to its official website for easy 
 - [Oracle NetSuite](https://www.netsuite.com) – ERP and financial management platform
 
 ## Human Resources & Hiring
-- [LinkedIn](https://www.linkedin.com) – Professional networking and recruiting platform
-- [Indeed](https://www.indeed.com) – Job search engine and hiring marketplace
-- [Glassdoor](https://www.glassdoor.com) – Employer reviews and salary insights
 - [BambooHR](https://www.bamboohr.com) – HR software for small to medium businesses
-- [Workday](https://www.workday.com) – Enterprise HR and financial management solutions
-- [Gusto](https://gusto.com) – Payroll, benefits and basic HR administration
-- [Lever](https://www.lever.co) – Collaborative recruitment and applicant tracking
+- [Glassdoor](https://www.glassdoor.com) – Employer reviews and salary insights
 - [Greenhouse](https://www.greenhouse.io) – Structured hiring and recruiting software
+- [Gusto](https://gusto.com) – Payroll, benefits and basic HR administration
+- [Indeed](https://www.indeed.com) – Job search engine and hiring marketplace
+- [Lever](https://www.lever.co) – Collaborative recruitment and applicant tracking
+- [LinkedIn](https://www.linkedin.com) – Professional networking and recruiting platform
+- [Personality Pool](https://personalitypool.com) – Personality-based candidate screening and assessment
+- [Workday](https://www.workday.com) – Enterprise HR and financial management solutions
 
 ## Legal & Compliance
 - [DocuSign](https://www.docusign.com) – Secure electronic signatures and agreement management
