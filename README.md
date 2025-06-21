@@ -1,5 +1,5 @@
 # ops-resources
-A collection of core tools and resources for effectively running an organization's operations.
+A collection of core tools and resources for effectively running an organization's operations. It now includes links for mastering Scrum and other Agile workflows.
 
 The same list is also available in a machine-readable format at [resources.csv](resources.csv) so you can easily filter or script against it.
 
@@ -8,11 +8,15 @@ Run `python scripts/csv_to_markdown.py` to convert `resources.csv` into a Markdo
 You can regenerate this README in one step with:
 `python scripts/csv_to_markdown.py > README.md`
 
+To print only entries from a single category, run for example:
+`python scripts/filter_resources.py --category "Finance & Accounting"`
+
 To verify that the links in `resources.csv` are still reachable, run:
 `python scripts/check_links.py`
 
 ## Table of Contents
 - [Work Management & Project Management Tools](#work-management--project-management-tools)
+- [Scrum & Agile Resources](#scrum--agile-resources)
 - [Marketing Tools & Resources](#marketing-tools--resources)
 - [Finance & Accounting](#finance--accounting)
 - [Human Resources & Hiring](#human-resources--hiring)
@@ -20,6 +24,8 @@ To verify that the links in `resources.csv` are still reachable, run:
 - [Productivity & Time Management](#productivity--time-management)
 - [Sales & CRM Tools](#sales--crm-tools)
 - [Analytics & Business Intelligence Tools](#analytics--business-intelligence-tools)
+- [Supply Chain & Logistics Tools](#supply-chain--logistics-tools)
+- [IT & Infrastructure Management](#it--infrastructure-management)
 - [Customer Support & Engagement](#customer-support--engagement)
 - [Business Education & Growth Resources](#business-education--growth-resources)
 
@@ -39,6 +45,12 @@ Each entry includes the name and a direct link to its official website for easy 
 - [Smartsheet](https://smartsheet.com) – Collaborative spreadsheets for project planning
 - [Wrike](https://wrike.com) – Real-time project monitoring and collaboration
 - [Teamwork](https://teamwork.com) – Client work management and time tracking
+
+## Scrum & Agile Resources
+- [Agile Manifesto](https://agilemanifesto.org) – The guiding principles of agile development
+- [Atlassian Agile Coach](https://www.atlassian.com/agile) – Guides and best practices for agile teams
+- [Scrum Guide](https://scrumguides.org) – Official guide to the Scrum framework
+- [Scrum.org](https://www.scrum.org) – Scrum training and certification
 
 ## Marketing Tools & Resources
 - [Google Analytics](https://marketingplatform.google.com/about/analytics) – Track website traffic and user behavior
@@ -64,15 +76,26 @@ Each entry includes the name and a direct link to its official website for easy 
 - [Sage Business Cloud Accounting](https://www.sage.com) – Accounting software for growing companies
 - [Oracle NetSuite](https://www.netsuite.com) – ERP and financial management platform
 
+## Customer Support & Engagement
+- [Drift](https://www.drift.com) – Conversational marketing and sales chatbots
+- [Freshdesk](https://www.freshdesk.com) – Help desk software for customer service
+- [Front](https://front.com) – Shared inbox for team communication
+- [Help Scout](https://www.helpscout.com) – Email-based customer support and ticketing platform
+- [Intercom](https://www.intercom.com) – Conversational support and marketing automation
+- [LiveChat](https://www.livechat.com) – Live chat software for websites
+- [Zendesk](https://www.zendesk.com) – Customer service ticketing and help desk
+- [Zoho Desk](https://www.zoho.com/desk) – Contextual customer service help desk
+
 ## Human Resources & Hiring
-- [LinkedIn](https://www.linkedin.com) – Professional networking and recruiting platform
-- [Indeed](https://www.indeed.com) – Job search engine and hiring marketplace
-- [Glassdoor](https://www.glassdoor.com) – Employer reviews and salary insights
 - [BambooHR](https://www.bamboohr.com) – HR software for small to medium businesses
-- [Workday](https://www.workday.com) – Enterprise HR and financial management solutions
-- [Gusto](https://gusto.com) – Payroll, benefits and basic HR administration
-- [Lever](https://www.lever.co) – Collaborative recruitment and applicant tracking
+- [Glassdoor](https://www.glassdoor.com) – Employer reviews and salary insights
 - [Greenhouse](https://www.greenhouse.io) – Structured hiring and recruiting software
+- [Gusto](https://gusto.com) – Payroll, benefits and basic HR administration
+- [Indeed](https://www.indeed.com) – Job search engine and hiring marketplace
+- [Lever](https://www.lever.co) – Collaborative recruitment and applicant tracking
+- [LinkedIn](https://www.linkedin.com) – Professional networking and recruiting platform
+- [Personality Pool](https://personalitypool.com) – Personality-based candidate screening and assessment
+- [Workday](https://www.workday.com) – Enterprise HR and financial management solutions
 
 ## Legal & Compliance
 - [DocuSign](https://www.docusign.com) – Secure electronic signatures and agreement management
@@ -112,6 +135,16 @@ Each entry includes the name and a direct link to its official website for easy 
 - [Google Data Studio](https://marketingplatform.google.com/about/data-studio)
 - [Metabase](https://www.metabase.com)
 
+## Supply Chain & Logistics Tools
+- [FLEXE](https://www.flexe.com) – On-demand warehousing and logistics
+- [ShipBob](https://www.shipbob.com) – E-commerce fulfillment solutions
+- [ShipStation](https://www.shipstation.com) – Shipping software for online retailers
+
+## IT & Infrastructure Management
+- [Datadog](https://www.datadoghq.com) – Cloud monitoring and analytics
+- [PagerDuty](https://www.pagerduty.com) – Real-time incident response platform
+- [Terraform](https://www.terraform.io) – Infrastructure as code for provisioning
+
 ## Customer Support & Engagement
 - [Zendesk](https://www.zendesk.com) – Customer service ticketing and help desk
 - [Intercom](https://www.intercom.com) – Conversational support and marketing automation
@@ -141,3 +174,7 @@ For more resources for running your business operations, visit [The Operations G
 ## Contact & Support
 
 For questions, suggestions, or other feedback, please email [support@theoperationsguide.com](mailto:support@theoperationsguide.com).
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
