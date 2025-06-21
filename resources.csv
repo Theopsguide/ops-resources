@@ -89,7 +89,16 @@ Analytics & Business Intelligence Tools,Looker,https://looker.com,
 Analytics & Business Intelligence Tools,Metabase,https://www.metabase.com,
 Analytics & Business Intelligence Tools,Power BI,https://powerbi.microsoft.com,
 Analytics & Business Intelligence Tools,Tableau,https://www.tableau.com,
+<<<<<<< HEAD
+Supply Chain & Logistics Tools,FLEXE,https://www.flexe.com,On-demand warehousing and logistics
+Supply Chain & Logistics Tools,ShipBob,https://www.shipbob.com,E-commerce fulfillment solutions
+Supply Chain & Logistics Tools,ShipStation,https://www.shipstation.com,Shipping software for online retailers
+IT & Infrastructure Management,Datadog,https://www.datadoghq.com,Cloud monitoring and analytics
+IT & Infrastructure Management,PagerDuty,https://www.pagerduty.com,Real-time incident response platform
+IT & Infrastructure Management,Terraform,https://www.terraform.io,Infrastructure as code for provisioning
+=======
 Scrum & Agile Resources,Agile Manifesto,https://agilemanifesto.org,The guiding principles of agile development
 Scrum & Agile Resources,Atlassian Agile Coach,https://www.atlassian.com/agile,Guides and best practices for agile teams
 Scrum & Agile Resources,Scrum Guide,https://scrumguides.org,Official guide to the Scrum framework
 Scrum & Agile Resources,Scrum.org,https://www.scrum.org,Scrum training and certification
+>>>>>>> main
