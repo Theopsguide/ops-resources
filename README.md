@@ -171,6 +171,8 @@ Each entry includes the name and a direct link to its official website for easy 
 
 For more resources for running your business operations, visit [The Operations Guide](https://theoperationsguide.com).
 
+For sample operational checklists and playbooks, see the [examples](examples/) directory.
+
 ## Contact & Support
 
 For questions, suggestions, or other feedback, please email [support@theoperationsguide.com](mailto:support@theoperationsguide.com).
