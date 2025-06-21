@@ -15,5 +15,6 @@ Thank you for considering contributing to this repository! We welcome additions 
    - Run `python scripts/check_sorting.py` to verify entries are alphabetically sorted.
    - If the check reports issues, run `python scripts/sort_resources.py` to automatically sort the file.
    - Finally, run `python -m py_compile scripts/*.py` to ensure any Python scripts compile successfully.
+   - These same checks run automatically on each pull request via GitHub Actions.
 
 Feel free to open an issue or pull request if you have questions.

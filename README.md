@@ -1,5 +1,5 @@
 # ops-resources
-A collection of core tools and resources for effectively running an organization's operations.
+A collection of core tools and resources for effectively running an organization's operations. It now includes links for mastering Scrum and other Agile workflows.
 
 The same list is also available in a machine-readable format at [resources.csv](resources.csv) so you can easily filter or script against it.
 
@@ -8,10 +8,19 @@ Run `python scripts/csv_to_markdown.py` to convert `resources.csv` into a Markdo
 You can regenerate this README in one step with:
 `python scripts/csv_to_markdown.py > README.md`
 
+To print only entries from a single category, run for example:
+`python scripts/filter_resources.py --category "Finance & Accounting"`
+
 ## Table of Contents
+<<<<<<< HEAD
 - [Analytics & Business Intelligence Tools](#analytics--business-intelligence-tools)
 - [Business Education & Growth Resources](#business-education--growth-resources)
 - [Customer Support & Engagement](#customer-support--engagement)
+=======
+- [Work Management & Project Management Tools](#work-management--project-management-tools)
+- [Scrum & Agile Resources](#scrum--agile-resources)
+- [Marketing Tools & Resources](#marketing-tools--resources)
+>>>>>>> main
 - [Finance & Accounting](#finance--accounting)
 - [Human Resources & Hiring](#human-resources--hiring)
 - [IT & Infrastructure Management](#it--infrastructure-management)
@@ -33,6 +42,7 @@ Each entry includes the name and a direct link to its official website for easy 
 - [Power BI](https://powerbi.microsoft.com)
 - [Tableau](https://www.tableau.com)
 
+<<<<<<< HEAD
 ### Business Education & Growth Resources
 - [Coursera](https://www.coursera.org) – Online courses from universities and organizations
 - [Indie Hackers](https://www.indiehackers.com) – Community and interviews for bootstrappers
@@ -45,6 +55,25 @@ Each entry includes the name and a direct link to its official website for easy 
 - [Udemy](https://www.udemy.com) – Marketplace for on-demand video courses
 - [Y Combinator Startup School](https://www.startupschool.org) – Learn startup basics from Y Combinator
 - [edX](https://www.edx.org) – University-level online classes and programs
+=======
+## Scrum & Agile Resources
+- [Agile Manifesto](https://agilemanifesto.org) – The guiding principles of agile development
+- [Atlassian Agile Coach](https://www.atlassian.com/agile) – Guides and best practices for agile teams
+- [Scrum Guide](https://scrumguides.org) – Official guide to the Scrum framework
+- [Scrum.org](https://www.scrum.org) – Scrum training and certification
+
+## Marketing Tools & Resources
+- [Google Analytics](https://marketingplatform.google.com/about/analytics) – Track website traffic and user behavior
+- [Google Ads](https://ads.google.com) – Manage online advertising and keyword campaigns
+- [Mailchimp](https://mailchimp.com) – Email marketing and automation platform
+- [Hootsuite](https://hootsuite.com) – Schedule posts across social media channels
+- [Buffer](https://buffer.com) – Social media scheduling and analytics tool
+- [SEMrush](https://semrush.com) – Competitive research for SEO and marketing
+- [Ahrefs](https://ahrefs.com) – Analyze backlinks and keywords for SEO
+- [Moz](https://moz.com) – SEO insights and search engine tools
+- [Canva](https://www.canva.com) – Design graphics with drag-and-drop interface
+- [BuzzSumo](https://buzzsumo.com) – Discover trending content and influencers
+>>>>>>> main
 
 ### Customer Support & Engagement
 - [Drift](https://www.drift.com) – Conversational marketing and sales chatbots
@@ -68,7 +97,11 @@ Each entry includes the name and a direct link to its official website for easy 
 - [Xero](https://www.xero.com) – Cloud-based accounting for small businesses
 - [Zoho Books](https://www.zoho.com/books) – Online accounting with invoicing features
 
+<<<<<<< HEAD
 ### Human Resources & Hiring
+=======
+## Human Resources & Hiring
+>>>>>>> main
 - [BambooHR](https://www.bamboohr.com) – HR software for small to medium businesses
 - [Glassdoor](https://www.glassdoor.com) – Employer reviews and salary insights
 - [Greenhouse](https://www.greenhouse.io) – Structured hiring and recruiting software
@@ -76,6 +109,10 @@ Each entry includes the name and a direct link to its official website for easy 
 - [Indeed](https://www.indeed.com) – Job search engine and hiring marketplace
 - [Lever](https://www.lever.co) – Collaborative recruitment and applicant tracking
 - [LinkedIn](https://www.linkedin.com) – Professional networking and recruiting platform
+<<<<<<< HEAD
+=======
+- [Personality Pool](https://personalitypool.com) – Personality-based candidate screening and assessment
+>>>>>>> main
 - [Workday](https://www.workday.com) – Enterprise HR and financial management solutions
 
 ### IT & Infrastructure Management
@@ -150,3 +187,7 @@ For more resources for running your business operations, visit [The Operations G
 ## Contact & Support
 
 For questions, suggestions, or other feedback, please email [support@theoperationsguide.com](mailto:support@theoperationsguide.com).
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
